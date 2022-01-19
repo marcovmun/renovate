@@ -1,9 +1,10 @@
 # Bitbucket Server Support
 
+> Note: For Assignees support use username slug as asignee name. Which can be easy found here: `https://{bitbucket_server}/rest/api/1.0/users`
+
 ## Unsupported platform features/concepts
 
-- Adding assignees to PRs not supported (does not seem to be a Bitbucket concept)
-- Adding/removing labels (Bitbucket limitation?)
+- Adding/removing labels (Bitbucket limitation)
 
 ## Features awaiting implementation
 
